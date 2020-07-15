@@ -1,0 +1,16 @@
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\bin\Release\Resources\Azazel.png
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\bin\Release\Helltaker_Azazel.exe.config
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\bin\Release\Helltaker_Azazel.exe
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\bin\Release\Helltaker_Azazel.pdb
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.csprojAssemblyReference.cache
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\MainWindow.g.cs
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\App.g.cs
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel_MarkupCompile.cache
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel_MarkupCompile.lref
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\MainWindow.baml
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.g.resources
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.Properties.Resources.resources
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.csproj.GenerateResource.cache
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.csproj.CoreCompileInputs.cache
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.exe
+E:\HellTaker_Azazel\Helltaker_Azazel\Helltaker_Azazel\obj\Release\Helltaker_Azazel.pdb
